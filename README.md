@@ -22,3 +22,9 @@ Flr att checka branches vi har:
 ```md
 git branch
 ```
+---
+## Pull request
+
+För att få merga in ändringar från denna branch in till main så öppnar vi en pull request. Detta gör vi i fliken pull request i github.
+
+<img src="pull_request.png" width = 400>
