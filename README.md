@@ -28,3 +28,7 @@ git branch
 För att få merga in ändringar från denna branch in till main så öppnar vi en pull request. Detta gör vi i fliken pull request i github.
 
 <img src="pull_request.png" width = 400>
+
+## Merge
+
+Efter pull request är det viktigt att varje person kör en pull till sin main branch och pull till sin egna branch.
